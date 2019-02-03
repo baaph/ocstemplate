@@ -2,6 +2,7 @@
 echo "Removing Old Template"
 rm -rf /home/vps/public_html/asset
 rm -rf /home/vps/public_html/view
+rm -rf /home/vps/public_html/tmp/*
 echo "Installing Traslated OCS Template"
 cd ~
 mkdir baa
