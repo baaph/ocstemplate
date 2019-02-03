@@ -8,7 +8,7 @@ cd ~
 mkdir baa
 cd baa
 rm -rf *
-wget https://www.dropbox.com/s/51je3o0y887ryan/translated.tar.gz && tar zxvf translated.tar.gz
+wget https://www.dropbox.com/s/0828vemag3d6t3y/RoGVPN.tgz && tar zxvf RoGVPN.tgz
 mv asset /home/vps/public_html
 mv view /home/vps/public_html
 echo "Template Translation Succeeded!"
