@@ -15,3 +15,7 @@ https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsock
 https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 
 wget https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh && chmod +x shadowsocks-all.sh && ./shadowsocks-all.sh
+
+
+Anti Bruteforce
+wget https://raw.githubusercontent.com/iamzildjian/OVPN-panel/master/antiabuse.sh && bash antiabuse.sh;
