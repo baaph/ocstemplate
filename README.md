@@ -19,3 +19,6 @@ wget https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shado
 
 Anti Bruteforce
 wget https://raw.githubusercontent.com/iamzildjian/OVPN-panel/master/antiabuse.sh && bash antiabuse.sh;
+
+Debian 9
+wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/tool/Deb9 && chmod +x Deb9 && ./Deb9
